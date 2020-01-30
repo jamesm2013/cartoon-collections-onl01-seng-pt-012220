@@ -9,7 +9,7 @@ planeteer_calls.map { |call| call.capitalize + '!' }
   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls# 
   short_words = ["puff", "go", "two"]
 long_planeteer_calls(short_words)
 end
